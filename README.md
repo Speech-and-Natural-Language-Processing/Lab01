@@ -1,5 +1,5 @@
 # <div align="center">ΕΠΕΞΕΡΓΑΣΙΑ ΟΜΙΛΙΑΣ ΚΑΙ ΦΥΣΙΚΗΣ ΓΛΩΣΣΑΣ</div>
-### <div align="center">ΕΡΓΑΣΤΗΡΙΑΚΗ ΑΣΚΗΣΗ</div>
+### <div align="center">ΕΡΓΑΣΤΗΡΙΑΚΗ ΑΣΚΗΣΗ 1</div>
 ### <div align="center">"REGULAR EXPRESSIONS (ΚΑΝΟΝΙΚΕΣ ΕΚΦΡΑΣΕΙΣ)"</div>
 
 <p align="justify"> Στην άσκηση αυτή καλείστε να χρησιμοποιήσετε regular expressions για να αντλήσετε πληροφορίες από ένα αρχείο κειμένου. 
